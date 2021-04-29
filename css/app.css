@@ -1,6 +1,10 @@
 p{
-    color: red;
+    color: rgb(166, 255, 0);
     font-size: 25px;
     font-style: oblique;
-    text-shadow: lime;
+    text-shadow: rgb(15, 80, 15);
+}
+
+img {
+    width: 125%;
 }
